@@ -1,4 +1,4 @@
-## Alexander Kotzeff's Portfolio
+# Alexander Kotzeff's Portfolio
 
 Hello and welcome to my portfolio!
 
