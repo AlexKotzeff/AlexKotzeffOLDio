@@ -1,10 +1,5 @@
-#Assignment 1, Problem 1 - Battleship
 #Alexander Kotzeff
-#B00792087
-#Sorry for the messy code, I'm trying to remember how to do everything :)
-
-#Initialize dimensions to know how long to make the lists and add either "-", "B", or "X" to them later. 
-#Create a table at the end using these lists. 
+#Basic battleship python game.
 
 boardDimensions = int(input())
 
