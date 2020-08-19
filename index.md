@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Alexander Kotzeff's Portfolio
 
-You can use the [editor on GitHub](https://github.com/AlexKotzeff/AlexKotzeff.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello and welcome to my portfolio!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Alexander Kotzeff and I am a third year student pursuing a double major in Neuroscience and Computer Science with a certificate in Neurotechnology. In this portfolio, I hope to demonstrate some of my coding knowledge through projects I worked on in class or in my free time.
 
-### Markdown
+### Data Science Projects 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
