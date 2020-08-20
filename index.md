@@ -10,5 +10,5 @@ My name is Alexander Kotzeff and I am a third year student pursuing a double maj
 ### Python Projects
 
 
-### [Java Projects](BattleShipsPage) 
+### [Java Projects](BattleshipsPage) 
 
