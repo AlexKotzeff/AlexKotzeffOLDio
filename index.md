@@ -7,7 +7,7 @@ My name is Alexander Kotzeff and I am a third year student pursuing a double maj
 ### Data Science Projects 
 
 
-### Python Projects
+### [Python Projects](PythonProjects.md)
 
 
 ### [Java Projects](BattleshipsPage) 
