@@ -1,4 +1,4 @@
-# Alexander Kotzeff's Portfolio
+# Coding Portfolio
 
 Hello and welcome to my portfolio!
 
