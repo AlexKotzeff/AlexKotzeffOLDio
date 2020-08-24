@@ -1,1 +1,3 @@
-#Here are some projects that I coded in python. 
+Below are some links to code files that I have worked on. 
+
+[Battleship Game](BattleshipsPage)
