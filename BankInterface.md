@@ -1,5 +1,6 @@
 [Back](JavaProjects.md)
 
+```js
 package com.company;
 
 import java.util.Scanner;
@@ -101,3 +102,4 @@ class BankAccount{
             System.out.println("Thank you for using our services.");
     }
 }
+```
