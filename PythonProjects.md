@@ -1,5 +1,5 @@
-Below are some links to code files that I have worked on. 
+Below are some links to python projects that I have worked on. 
 
-[Battleship Game](BattleshipsPage)
+1. [Battleship Game](BattleshipsPage)
 
 [Back](index.md)
