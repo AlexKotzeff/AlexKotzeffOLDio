@@ -1,25 +1,5 @@
 Reading in Data and cleaning it is an important first step in data science. In this project, I read in data from several subjects and coded loops to create dictionaries of the data. 
 
-## Initialization
-
-```python
-import numpy as np
-import pandas as pd
-
-import matplotlib
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-from scipy import stats
-
-import mne
-import mne.stats
-from mne.stats import linear_regression, fdr_correction
-from mne.viz import plot_compare_evokeds
-from mne.channels import find_ch_connectivity, make_1020_channel_selections
-from mne.stats import spatio_temporal_cluster_test
-```
-
 ## Read in data
 
 Data are saved in files for each subject, continaing a set of four MNE `Evoked` instances. Each evoked object in the file for a subject represents the data for a particular condition, averaged over trials.
